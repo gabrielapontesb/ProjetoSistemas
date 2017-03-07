@@ -12,4 +12,5 @@ Um arquiteto não é um profissional que será formado da noite pro dia e deve s
 
 **1)** http://www.cbsi.net.br/2015/03/com-media-salarial-acima-de-10-mil.html
 
+
 **2)** https://www.sine.com.br/media-salarial-para-arquiteto-de-software
