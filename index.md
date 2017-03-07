@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Arquiteto de Software
 
-You can use the [editor on GitHub](https://github.com/gabrielapontesb/ProjetoSistemas/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Pelo que entendi do podcast e pesquisando um pouco na internet, não há uma definição clara sobre o papel do arquiteto de software, sendo um termo abrangente e que aceita uma certa variedade de papeis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ao tomarmos como base a ideia de que a arquitetura de software trata dos componentes do sistema, da interação entre eles, e das suas propriedades externas, fica claro que o arquiteto seria a figura responsável por trazer uma diretriz tecnológica, além de alinhar a escolha desses componentes ao negócio.
 
-### Markdown
+A partir daí surge a discussão de onde se encaixaria um arquiteto: no lado do desenvolvimento, ou apenas no âmbito mais tático e de direcionamento. Hierarquicamente o arquiteto estaria acima de um engenheiro de software sênior, mas uma das coisas que começou a virar tendência em alguns projetos, principalmente em start-ups, e também foi discutida no podcast é que a responsabilidade da a arquitetura está em toda a equipe.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Um arquiteto não é um profissional que será formado da noite pro dia e deve ser valorizado dentro de uma empresa, por se tratar de alguém que precisa estar em constante estudo, saber gerenciar relacionamentos, tomar decisões tecnológicas e intermediar o nível de negócio com o de desenvolvimento. É uma profissão que está cada vez mais em alta, como podemos ver nos links abaixo:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabrielapontesb/ProjetoSistemas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**1) http://www.cbsi.net.br/…/com-media-salarial-acima-de-10-mil…
+2) https://www.sine.com.br/media-salarial-para-arquiteto-de-so…**
