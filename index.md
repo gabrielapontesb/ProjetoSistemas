@@ -8,5 +8,6 @@ A partir daí surge a discussão de onde se encaixaria um arquiteto: no lado do 
 
 Um arquiteto não é um profissional que será formado da noite pro dia e deve ser valorizado dentro de uma empresa, por se tratar de alguém que precisa estar em constante estudo, saber gerenciar relacionamentos, tomar decisões tecnológicas e intermediar o nível de negócio com o de desenvolvimento. É uma profissão que está cada vez mais em alta, como podemos ver nos links abaixo:
 
-**1) http://www.cbsi.net.br/…/com-media-salarial-acima-de-10-mil…
-2) https://www.sine.com.br/media-salarial-para-arquiteto-de-so…**
+**1)** http://www.cbsi.net.br/2015/03/com-media-salarial-acima-de-10-mil.html
+
+**2)** https://www.sine.com.br/media-salarial-para-arquiteto-de-software
