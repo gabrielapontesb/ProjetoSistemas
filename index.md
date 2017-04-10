@@ -1,6 +1,7 @@
 ## Postagem 4: Modelo de Domínio Rico e Anêmico
 
 ![](http://www.kallynakelly.com.br/wp-content/uploads/2012/06/queda-de-braco1.jpg)
+
 Modelos ricos e anêmicos estão totalmente ligados ao Desenvimento Orientado a Objetos. Nesse modelo, quando a interação entre as classes do sistema não é clara o suficiente, existem diversos problemas como a repetição de código, dificuldade de manutenção e a propagação de bugs. Por conta disso, existe um conceito popular no desenvolvimento de software, que se chama Arquitetura em Camadas. Nela, a ideia é separar as regras de negócio, os atributos da entidade e o acesso aos dados. Isso é feito a fim de facilitar a manutenção do código, porém, implementada na prática, essa arquitetura dá origem a classes com as regras de negócios repetidas e espalhadas. Por esse motivo, a Arquitetura em Camadas é hoje conhecida como Modelo Anêmico. Para ser mais preciso, a palavra *anêmico* significa a falta de alguma coisa. Assim sendo, na orientação a objetos um modelo anêmico é, então, aquele em que as definições de estado e comportamento não ficam na mesma classe e por isso não representam o mundo real.
 
 
