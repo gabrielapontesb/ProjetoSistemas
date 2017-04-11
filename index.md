@@ -10,7 +10,7 @@ O seguinte [podcast](http://podcast.dotnetarchitects.net/wp-content/uploads/2010
 
 Como tudo nessa vida, a escolha entre qual o modelo será implementado depende de cada situação. Fazendo uma busca simples na internet dá para perceber que há uma certa resistência ao Anêmico, como pode ser visto [aqui](http://www.arquiteturajava.com.br/livro/cuidado-com-o-modelo-anemico.pdf). Entretanto, como abordado no podcast, o mercado atual se caracteriza por desenvolvedores que muitas vezes sabem a teoria da orientação a objetos, porém não colocam em prática, não conseguindo realmente aplicar o Modelo Rico.
 
-Até a próxima!
+Espero que você também tenha aprendido um pouco mais sobre os dois! Até a próxima!
 
 ________________________________________________________________________________________________________________________________________
 
