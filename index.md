@@ -32,6 +32,7 @@ Orientado a Objetos	| Um estilo arquitetural baseado na divisão de tarefas para
 Apresentação Separada |	Separa a lógica para gerenciar a interação do usuário da visualização da interface de usuário (UI) e dos dados com os quais o usuário trabalha.|
 
 
+<br/>
 Além dessas, existe uma outra discutida também no podcast: Service-Oriented Architecture (SOA). É uma arquitetura orientada a serviços, como o nome já diz e baseia-se nos princípios da computação distribuída, utilizando serviços web para estabelecer a comunicação entre os sistemas clientes e os sistemas que implementam os serviços. Para saber mais sobre ela, acesse o [link](http://www.grokpodcast.com/2012/02/02/episodio-59-arquitetura-e-design-de-software-parte-4-de-4/) :)
 
 
