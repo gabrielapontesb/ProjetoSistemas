@@ -21,6 +21,7 @@ Existem diversas abordagens distintas de Arquitetura de Software. Como comentado
 
 Tendo essas definição em mente, um estilo arquitetural de software pode ser visto como um padrão que oferece um framework abstrato para uma família de sistemas. Dessa forma, ele melhora o particionamento e promove reuso de design, fornecendo soluções para problemas recorrentes. A tabela abaixo oferece diversos estilos arquiteturais utilizados:
 
+
 | Estilo de Arquitetura | Descrição |
 | --- | --- |
 | Client-Server	| Segrega o sistema em duas aplicações, em que o cliente faz uma requisição de serviço ao servidor.
@@ -30,7 +31,10 @@ Message-Bus |	Um sistema de software que pode receber e enviar mensagens baseado
 Orientado a Objetos	| Um estilo arquitetural baseado na divisão de tarefas para uma aplicação ou sistema em reutilização individual e objetos autossuficientes, cada um contendo os dados e comportamentos relevantes ao objeto.|
 Apresentação Separada |	Separa a lógica para gerenciar a interação do usuário da visualização da interface de usuário (UI) e dos dados com os quais o usuário trabalha.|
 
+
 Além dessas, existe uma outra discutida também no podcast: Service-Oriented Architecture (SOA). É uma arquitetura orientada a serviços, como o nome já diz e baseia-se nos princípios da computação distribuída, utilizando serviços web para estabelecer a comunicação entre os sistemas clientes e os sistemas que implementam os serviços. Para saber mais sobre ela, acesse o [link](http://www.grokpodcast.com/2012/02/02/episodio-59-arquitetura-e-design-de-software-parte-4-de-4/) :)
+
+
 ________________________________________________________________________________________________________________________________________
 
 
