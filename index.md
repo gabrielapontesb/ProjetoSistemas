@@ -8,7 +8,7 @@ Para começo de conversa, a sigla GRASP significa *General Responsability Assign
 
 Ao todo, são nove os padrões GRASP, resumidos na tabela a seguir:
 
-| Padrão | Descrição |
+| **Padrão** | **Descrição** |
 |--------|-----------|
 |*Information Expert*| Onde delegar responsabilidades?|
 | *Creator*| Quem deve ser o responsável por criar uma nova instância da classe? |
@@ -20,10 +20,10 @@ Ao todo, são nove os padrões GRASP, resumidos na tabela a seguir:
 |*Indirection*|Onde colocar uma responsabilidade de modo a evitar o acoplamento direto entre duas ou mais classes? Como desacoplar objetos de modo a possibilitar o baixo acoplamento e manter alta a possibilidade de reuso?|
 |*Protected Variations*| Como projetar objetos, subsistema e sistemas para que as variações ou instabilidades nesses elementos não tenha um impacto indesejável nos outros elementos?|
 
+<br/>
+O GRASP possui inúmeros benefícios, como a reutilização de componentes, utilização de todos os eventos em uma única classe, facilidade de manutenção e uma melhor distribuição de responsabilidades. O post foca mais na parte teórica, mas recomenda-se fortemente assistir aos vídeos para saber um pouco mais sobre a prática e a implementação de cada um dos padrões GRASP!
 
-O GRASP possui inúmeros benefícios, como a reutilização de componentes, utilização de todos os eventos em uma única classe, facilidade de manutenção e uma melhor distribuição de responsabilidades. Recomenda-se fortemente assistir aos vídeos para saber um pouco mais sobre a prática e a implementação dos padrões GRASP!
-
-Até a próxima!
+Espero que você tenha compreendido um pouco mais sobre os padrões. Até a próxima!
 
 
 ________________________________________________________________________________________________________________________________________
