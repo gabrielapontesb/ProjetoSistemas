@@ -1,3 +1,34 @@
+## Postagem 6: Padrões GRASP
+
+Logo após a programação estruturada, a próxima transformação de grande impacto na área de software foi o surgimento do conjunto de princípios conhecidos como Orientação a Objetos. Dentre os fatores que contribuíram para popularizar as linguagens baseadas em OO, um trabalho importante foi a documentação feita por diversos especialistas de software de soluções que ficaram conhecidas como padrões de projetos. Uma das mais famosas foi a publicação de 23 patterns, em 1994, aos quais se convencionou chamar de GoF, sigla em inglês para *Gang of Four*.
+
+Além deles, vários outros patterns foram desenvolvidos ao longo do tempo. Um exemplo disto são os padrões SOLID, um acrônimo onde cada letra representa um princípio de design de orientação a objetos. De forma análoga, existe também os padrões GRASP, os quais contemplam um conjunto de princípios baseados na noção de responsabilidade e que podem servir de guia no desenvolvimento de soluções OO. Este post aborda um pouco sobre o GRASP, utilizando os conhecimentos das aulas do professor Luiz Borba, postadas [aqui](https://www.youtube.com/watch?v=IdQjsAcgtNM).
+
+Para começo de conversa, a sigla GRASP significa *General Responsability Assignment Software Patterns* ou Padrões Gerais para Atribuição de Responsabilidade. Consiste em diretrizes para atribuir responsabilidade a classes e objetos em um projeto OO. Mas antes de entendermos a definição, devemos entender o real significado da palavra responsabilidade. Neste contexto, a responsabilidade é definida como as obrigações que um objeto possui quando se leva em conta o seu papel dentro de um determinado contexto. Para definir a responsabilidade de um objeto, então, leva-se em conta o que este elemento irá "fazer" e/ou "saber". 
+
+Ao todo, são nove os padrões GRASP, resumidos na tabela a seguir:
+
+| Padrão | Descrição |
+|--------|-----------|
+|*Information Expert*| Onde delegar responsabilidades?|
+| *Creator*| Quem deve ser o responsável por criar uma nova instância da classe? |
+|*Low Coupling*| Quão fortemente um elemento está conectado? Como reduzir o impacto de mudanças?|
+|*High Cohesion*| Como obter os objetos focados, fáceis de entender, gerenciáveis e ainda pouco acopláveis?|
+|*Controller*| Quem deve responder aos eventos do sistema?|
+|*Polymorphism*| Como criar componentes de softwares conectáveis com base no tipo?|
+|*Pure Fabrication*|Que objeto deve ter a responsabilidade quando você não quer violar *High Cohesion* e *Low Coupling*, mas as soluções oferecidas pelo *Information Expert* não são apropriadas?|
+|*Indirection*|Onde colocar uma responsabilidade de modo a evitar o acoplamento direto entre duas ou mais classes? Como desacoplar objetos de modo a possibilitar o baixo acoplamento e manter alta a possibilidade de reuso?|
+|*Protected Variations*| Como projetar objetos, subsistema e sistemas para que as variações ou instabilidades nesses elementos não tenha um impacto indesejável nos outros elementos?|
+
+
+O GRASP possui inúmeros benefícios, como a reutilização de componentes, utilização de todos os eventos em uma única classe, facilidade de manutenção e uma melhor distribuição de responsabilidades. Recomenda-se fortemente assistir aos vídeos para saber um pouco mais sobre a prática e a implementação dos padrões GRASP!
+
+Até a próxima!
+
+
+________________________________________________________________________________________________________________________________________
+
+
 ## Postagem 4: Modelo de Domínio Rico e Anêmico
 
 Modelos Ricos e Anêmicos estão totalmente ligados ao Desenvimento Orientado a Objetos. Primeiramente, é preciso entender o conceito e a diferença entre eles.
