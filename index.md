@@ -21,10 +21,9 @@ Ao todo, são nove os padrões GRASP, resumidos na tabela a seguir:
 |*Protected Variations*| Como projetar objetos, subsistema e sistemas para que as variações ou instabilidades nesses elementos não tenha um impacto indesejável nos outros elementos?|
 
 <br/>
-O GRASP possui inúmeros benefícios, como a reutilização de componentes, utilização de todos os eventos em uma única classe, facilidade de manutenção e uma melhor distribuição de responsabilidades. O post foca mais na parte teórica, mas recomenda-se fortemente assistir aos vídeos para saber um pouco mais sobre a prática e a implementação de cada um dos padrões GRASP!
+O GRASP possui inúmeros benefícios, como a reutilização de componentes, utilização de todos os eventos em uma única classe, facilidade de manutenção e uma melhor distribuição de responsabilidades. O post foca mais na parte teórica, mas recomenda-se fortemente assistir aos vídeos para saber um pouco mais sobre a prática e a implementação de cada um dos padrões GRASP! É importante lembrar que eles não devem ser encarados como soluções pré-definidas para problemas específicos. Na verdade, estes patterns devem ser compreendidos como princípios que auxiliam os desenvolvedores na tarefa de projetar de uma forma bem estrutura aplicações orientadas a objetos.
 
-Espero que você tenha compreendido um pouco mais sobre os padrões. Até a próxima!
-
+Até a próxima!
 
 ________________________________________________________________________________________________________________________________________
 
