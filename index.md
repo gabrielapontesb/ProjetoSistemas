@@ -1,3 +1,22 @@
+## Postagem 7: Projetar para quê?
+
+Este é um post mais pessoal, para revisar os conceitos importantes aprendidos na disciplina!
+
+Consigo observar em mim e meus colegas que quem chega para cursar a matéria não tem noção da importância que ela possui. Muitas vezes não a levamos tão a sério por ser mais teórica, diferente de outras matérias que estamos acostumados. A grande questão é que Projetos de Sistemas é uma disciplina do 5º período, em que geralmente o aluno não tem experiência nenhuma com o mercado e ainda é muito imaturo para dar valor ao tempo despendido projetando um software. 
+
+Para mim, o maior valor aprendido em Projetos e que se estende a muitas outras áreas no mundo do mercado foi que o foco deve ser totalmente no cliente, não no seu produto. Ao aplicar o sistema no mundo real, como fizemos no desenvolvimento do trabalho, você consegue ter uma visão imensamente mais ampla, ao invés de chegar e já ir pra cima do código. Afinal, usuários não querem saber se você usa a versão do Python X ou Y. Pelo contrário, eles querem resolver o problema deles e só conseguimos fazer isso com um planejamento muito bem detalhado.
+
+Projetar um software traz benefícios para ambas as partes, ajuda na comunicação entre o desenvolvedor e o cliente, sendo muito mais fácil para o usuário discutir sobre quais são suas reais necessidades, além de você, como programador, evitar de tomar decisões erradas e trilhar um caminho muito mais difícil, sem qualidade e que não te dará o retorno desejado.
+
+Fico feliz por ter cursado essa matéria no final do curso, pois mesmo com pouca experiência de mercado, sei que muitas coisas que acontecem nas empresas poderiam ser evitadas se houvesse um bom planejamento. Infelizmente, vejo hoje que conceitos passados em sala de aula ficam só na teoria. Mas, mesmo em ambientes assim, a maioria das pessoas tem convicção que o projeto é uma etapa fundamental. Porém, por questões de prazo ou custo, por exemplo, acaba não sendo uma fase implementada na prática.
+
+De qualquer forma, foi muito válida a experiência, principalmente por se tratar de um cliente real. Creio que a disciplina está no caminho certo para que seja reconhecida da forma que merece e que o aprendizado saia da sala de aula para firmar-se no mundo do mercado!
+
+Valeu pelo conhecimento passado, Calhau! Fico feliz, pois sei que os alunos estão em boas mãos!
+
+________________________________________________________________________________________________________________________________________
+
+
 ## Postagem 6: Padrões GRASP
 
 Logo após a programação estruturada, a próxima transformação de grande impacto na área de software foi o surgimento do conjunto de princípios conhecidos como Orientação a Objetos. Dentre os fatores que contribuíram para popularizar as linguagens baseadas em OO, um trabalho importante foi a documentação feita por diversos especialistas de software de soluções que ficaram conhecidas como padrões de projetos. Uma das mais famosas foi a publicação de 23 patterns, em 1994, aos quais se convencionou chamar de GoF, sigla em inglês para *Gang of Four*.
