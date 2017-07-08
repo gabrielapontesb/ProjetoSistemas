@@ -88,6 +88,15 @@ Além dessas, existe uma outra discutida também no podcast: Service-Oriented Ar
 ________________________________________________________________________________________________________________________________________
 
 ## Postagem 2: Qualidade de software
+
+A qualidade é hoje o grande motivador em todas as áreas de atividades humanas. Todos querem oferecer e receber produtos ou serviços com qualidade e com software não é diferente. Contudo, como qualidade é um conceito abstrato, foram criadas especificações e padrões de desenvolvimento para ajudar nessa questão.
+
+A International Organization Standardization - ISO e a International Electrotechnical Comission - IEC se uniram para criar normas internacionais conjuntas. A norma internacional ISO/IEC define qualidade de software como “A totalidade de características de um produto de software que lhe confere a capacidade de satisfazer necessidades explícitas e implícitas”. Explicando melhor, necessidades explícitas são aquelas definidas pelos requisitos. Já as implícitas, embora não especificadas, são necessárias ao usuário.
+
+O controle de qualidade surge então como uma necessidade. A engenharia de software tem como objetivo a melhoria da qualidade do seu produto com propostas e modelos de desenvolvimento, métodos e técnicas para aplicação nas diversas fases de desenvolvimento. O principal problema com que se defronta a engenharia de software é a dificuldade de se medir a qualidade e é daí que surgem atributos de qualidade, também propostos pela ISO/IEC, tendo como objetivo servir de referencia básica na avaliação de produto de software.
+
+Para garantir qualidade no desenvolvimento do software, é muito importante que haja uma boa conversa com o cliente, obtendo um real entendimento sobre as necessidades que ele possui. Isso pode ser feito, por exemplo, elaborando um questionário para que a conversa se dê da forma mais clara possível. Um real alinhamento de ideias é fundamental para um software com qualidade!
+
 ________________________________________________________________________________________________________________________________________
 
 ## Postagem 1: Arquiteto de Software
