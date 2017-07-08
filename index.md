@@ -45,6 +45,19 @@ O GRASP possui inúmeros benefícios, como a reutilização de componentes, util
 Até a próxima!
 
 ________________________________________________________________________________________________________________________________________
+## Postagem 5: Tema livre - MVC
+
+MVC é a sigla de _Model-View-Controller_, um padrão de arquitetura de software que separa a representação da informação da interação do usuário com ele. O modelo (model) consiste nos dados da aplicação, regras de negócios, lógica e funções. Uma visão (view) pode ser qualquer saída de representação dos dados, como uma tabela ou um diagrama. É possível ter várias visões do mesmo dado, como um gráfico de barras para gerenciamento e uma visão tabular para contadores. O controlador (controller) faz a mediação da entrada, convertendo-a em comandos para o modelo ou visão. As ideias centrais por trás do MVC são a reusabilidade de código e separação de conceitos. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/ModelViewControllerDiagram2.svg)
+
+O principal benefício da utilização do MVC é a separação entre os dados e a apresentação das aplicações, o que é muito importante, devido ao aumento da complexidade das aplicações desenvolvidas atualmente. Dessa forma, alterações feitas no layout não afetam a manipulação de dados, e estes poderão ser reorganizados sem alterar o layout.
+
+O MVC resolve este problema através da separação das tarefas de acesso aos dados e lógica de negócio, lógica de apresentação e de interação com o utilizador, introduzindo um componente entre os dois: o controlador.
+
+Curiosidade interessante: O padrão MVC foi escrito pela primeira vez em 1979 por Trygve Reenskaug, que trabalhava no Smalltalk, uma linguagem de programação orientada a objetos e é até hoje extremamente utilizado no mundo do desenvolvimento! Vale a pena dar uma conferida!
+
+________________________________________________________________________________________________________________________________________
 
 
 ## Postagem 4: Modelo de Domínio Rico e Anêmico
